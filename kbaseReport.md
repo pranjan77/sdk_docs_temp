@@ -56,8 +56,9 @@ def _generate_report (self, params, other_stuff):
          'workspace_name': ws_name,
 
          #file_links: list of paths or shock node IDs pointing to 
-         #a single flat file. They appear in xxx section 
+         #a single flat file. They appear in Files section 
          #as list of downloadable files. 
+         
          #eg. 
          #  output_files_in_app = list()
          #  output_files_in_app.append({
